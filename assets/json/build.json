@@ -1,0 +1,9 @@
+{
+  "persona": "executive | recruiter | consulting",
+  "name": "string",
+  "email": "string",
+  "org": "string (optional)",
+  "message": "string",
+  "submitted_at": "ISO-8601 timestamp",
+  "source": "elwoodberry.com/contact"
+}
